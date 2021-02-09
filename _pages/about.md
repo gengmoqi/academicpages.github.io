@@ -37,6 +37,10 @@ I'm currently a Computer Science PhD student at Cornell University. My research 
 	* Summer Analyst, **Credit Suisse**
 	* Structured Funds, Equity Derivatives
 
+## Talks and Presentations
+* [Zerocash: Decentralized anonymous payments from Bitcoin](../files/Zerocash_Oakland14.pdf), November 2017
+	* Paper presentation as part of COMP6111C: Blockchain and Cryptocurrency Technologies, taught by [Prof. Dimitris Papadopoulos](https://www.cse.ust.hk/~dipapado)
+
 ## Miscellanea
 What I do in my free time:
 
