@@ -14,7 +14,7 @@ redirect_from:
 <!--### **[Resume]()**-->
 
 ## Bio
-I'm currently a Computer Science PhD student at Cornell University. My research interests broadly include security and privacy, distributed systems, and cryptoeconomics.
+I'm currently a Computer Science PhD student at Cornell University. My research interests broadly include security and privacy, distributed systems, and [cryptoeconomics](https://www.youtube.com/watch?v=GQR1xjQn5Pg).
 
 ## Teaching
 - Teaching Assistant:
